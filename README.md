@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIMANVAZ
 - 👀 interested in JS, Node and writing good code
-- 🌱 currently learning CSS and templates(patterns)
+- 🌱 currently learning backend
 - 💞️ looking to collaborate on challenging project
 - 📫 How to reach me  - mail at dimanvaz04@gmail.com
 
