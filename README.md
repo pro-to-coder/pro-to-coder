@@ -4,6 +4,7 @@
 | Interests 👀 | writing good code |
 | Now I specialize in | JS-related backend |
 | Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma, Mongo |
+| Other | Docker, Kafka, Ansible, GraphQL, Ubuntu |
 | Contact me 📫 | dimanvaz04@gmail.com |
 
 
