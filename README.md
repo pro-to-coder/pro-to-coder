@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Ayrat
-- 👀 interested in JS-Node and writing good code
-- 🌱 currently specialize in backend
-- 💞️ looking to collaborate on challenging project
-- 📫 How to reach me  - mail at dimanvaz04@gmail.com
+|    |    |
+|----|----|
+| Hello 👋 | I’m Ayrat |
+| Interests 👀 | writing good code |
+| Now I specialize in | JS-related backend |
+| Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma, Mongo |
+| Contact me 📫 | dimanvaz04@gmail.com |
+
 
 [![N|Solid](https://s7141384.sendpul.se/files/emailservice/userfiles/399ae52e60290f00fa6f54a82244774a7141384/laptop-desk.gif)](https://nodesource.com/products/nsolid)
 <!---
