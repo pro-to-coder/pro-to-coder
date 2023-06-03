@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DIMANVAZ
-- 👀 interested in Node-JS and writing good code
+- 👋 Hi, I’m Ayrat
+- 👀 interested in JS-Node and writing good code
 - 🌱 currently specialize in backend
 - 💞️ looking to collaborate on challenging project
 - 📫 How to reach me  - mail at dimanvaz04@gmail.com
