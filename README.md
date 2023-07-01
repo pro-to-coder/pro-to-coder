@@ -5,7 +5,7 @@
 | Now I specialize in | JS-related backend |
 | Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma, Mongo |
 | Other | Docker, Kafka, Ansible, GraphQL, Ubuntu |
-| Contact me 📫 | dimanvaz04@gmail.com |
+| Contact me 📫 | [https://t.me/Ayra_t](https://t.me/Ayra_t) |
 
 
 [![N|Solid](https://s7141384.sendpul.se/files/emailservice/userfiles/399ae52e60290f00fa6f54a82244774a7141384/laptop-desk.gif)](https://nodesource.com/products/nsolid)
