@@ -1,10 +1,10 @@
 |    |    |
 |----|----|
 | Hello 👋 | I’m Ayrat |
-| Interests 👀 | writing good code |
+| Interesting Areas of possible development | Blockchain, IoT, Compute Vision |
 | Now I specialize in | JS-related backend |
 | Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma, Mongo |
-| Other | Docker, Kafka, Ansible, GraphQL, Ubuntu |
+| Other | Docker, Ansible, GraphQL, Ubuntu |
 | Contact me 📫 | [https://t.me/Ayra_t](https://t.me/Ayra_t) |
 
 
