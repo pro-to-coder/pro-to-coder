@@ -3,8 +3,8 @@
 | Hello 👋 | I’m Ayrat |
 | Interesting Areas of possible development | Blockchain, IoT, Compute Vision |
 | Now I specialize in | JS-related backend |
-| Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma, Mongo |
-| Other | Docker, Ansible, GraphQL, Ubuntu |
+| Stack 🎨| JS, TS, Node, Nest, Postgres + Prisma |
+| Other | Docker, Ansible, Ubuntu |
 | Contact me 📫 | [https://t.me/Ayra_t](https://t.me/Ayra_t) |
 
 
